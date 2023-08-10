@@ -1,0 +1,100 @@
+@media (min-width: 1366px) and (max-width: 1500px) {
+  .progress-tracker--right{text-align: left;}
+  .progress-text{padding: 40px 30px;}
+  .ismdetail-list{margin-left: 0px;}
+ /* .ismdetail-list .progress-tracker--right .progress-marker::after {right: calc(-100% + 45px);}
+  .ismdetail-list .progress-marker::after{width:120%;}*/
+  .progress-tracker:before{width:82%;}
+
+}
+
+
+@media (min-width: 1300px) and (max-width: 1366px) {
+  .progress-tracker--right{text-align: left;}
+  .progress-text{padding: 40px 25px;}
+  .ismdetail-list{margin-left: 0px;}
+ /* .ismdetail-list .progress-tracker--right .progress-marker::after {right: calc(-100% + 45px);}
+  .ismdetail-list .progress-marker::after{width:120%;}*/
+  .progress-tracker:before{width:82%;}
+
+}
+
+@media (min-width: 1200px) and (max-width: 1265px) {
+
+  .progress-tracker--right{text-align: left;}
+  .progress-text{padding: 40px 22px;}
+  .ismdetail-list{margin-left: 0px;}
+  /*.ismdetail-list .progress-tracker--right .progress-marker::after {right: calc(-100% + 45px);}
+  .ismdetail-list .progress-marker::after{width:120%;}*/
+
+}
+
+
+@media only screen and (max-width: 1199px)
+{ 
+ 
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px)
+{ 
+ 
+}
+
+@media only screen and (max-width: 991px)
+{ 
+  
+  #sidebar-wrapper .sidebar-heading {padding: 10px 0px;}
+  .navbar-light .navbar-toggler {background-color: #fff;}
+
+ /* .gcspdashbordbody .navbar-nav {display: block; text-align: right;}
+  .gcspdashbordbody .gcsplanguaswit {display: block;}
+  .gcspdashbordbody .btn-group {display: block;}
+  .gcspdashbordbody ul.navbar-nav li {display: inline-block; vertical-align:top;}*/
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px)
+{ 
+  
+  .prodate .col-md-4 {-ms-flex: 0 0 100%; flex: 0 0 100%; max-width:100%;}
+  .prodate .col-md-8 {-ms-flex: 0 0 100%; flex: 0 0 100%; max-width:100%;}
+  .gc-chartbox .col-md-4 {-ms-flex: 0 0 50%; flex: 0 0 50%; max-width:50%;}
+
+}
+
+@media only screen and (max-width: 767px)
+{ 
+  
+  .navbar ul.navbar-nav {align-items: flex-end; margin-top: 8px; text-align: right; display: block;}
+  .gcsplanguaswit.loginpage {margin-right: 0px; display: block; margin-bottom: 5px;}
+  .gc-login li {padding: 0px; padding-top: 10px; display: inline-block;}
+
+
+
+} 
+
+@media only screen and (max-width: 575px)
+{ 
+  
+}
+
+@media only screen and (max-width: 479px)
+{ 
+  
+}
+
+@media only screen and (max-width: 399px) 
+{ 
+ 
+}
+
+@media only screen and (max-width: 359px) 
+{
+  .links > a {font-size: 11px;}
+}
+
+
+
+
+
+img {max-width: 100%; height: auto;}
